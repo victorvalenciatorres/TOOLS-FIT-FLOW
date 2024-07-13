@@ -1,0 +1,36 @@
+Mass_POL2POL3_CB2-V2_POL3m[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0267752, Errorv2jpsi: 0.025786
+Mass_VWG_CB2-V2_POL3m[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0278843, Errorv2jpsi: 0.0266146
+Mass_QVWG_CB2-V2_POL3m[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0270332, Errorv2jpsi: 0.0259881
+Mass_POL2POL3_NA60-V2_POL3m[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0278641, Errorv2jpsi: 0.0264894
+Mass_VWG_NA60-V2_POL3m[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0290147, Errorv2jpsi: 0.0273477
+Mass_QVWG_NA60-V2_POL3m[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0298805, Errorv2jpsi: 0.027986
+Mass_POL2POL3_CB2-V2_POL2m[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0387999, Errorv2jpsi: 0.0237817
+Mass_VWG_CB2-V2_POL2m[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0403071, Errorv2jpsi: 0.0245426
+Mass_QVWG_CB2-V2_POL2m[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0391611, Errorv2jpsi: 0.0239634
+Mass_POL2POL3_NA60-V2_POL2m[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0401828, Errorv2jpsi: 0.0244396
+Mass_VWG_NA60-V2_POL2m[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0417467, Errorv2jpsi: 0.0252267
+Mass_QVWG_NA60-V2_POL2m[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0405553, Errorv2jpsi: 0.0246265
+Mass_Pol2Pol3Exp_CB2-V2_PolExpm[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0166014, Errorv2jpsi: 0.0231705
+Mass_VWG_CB2-V2_PolExpm[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0173037, Errorv2jpsi: 0.0239185
+Mass_QVWG_CB2-V2_PolExpm[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0167433, Errorv2jpsi: 0.0233449
+Mass_Pol2Pol3Exp_NA60-V2_PolExpm[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0175217, Errorv2jpsi: 0.0238229
+Mass_VWG_NA60-V2_PolExpm[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0182604, Errorv2jpsi: 0.0245955
+Mass_QVWG_NA60-V2_PolExpm[2.2-4.5][Pt2.0-4.0]
+v2jpsi: 0.0176868, Errorv2jpsi: 0.0240055

@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "SysTotSignalExtractionPt.C": "cpp",
+        "SignalExtractionNSAMPLES.C": "cpp",
+        "InitializeFunctions.C": "cpp",
+        "getHistograms.C": "cpp",
+        "FitFunctions.C": "cpp",
+        "SetRangeAndNameTest.C": "cpp",
+        "SignalExtraction.C": "cpp",
+        "SysTotSignalExtractionPtNSAMPLES.C": "cpp"
+    }
+}

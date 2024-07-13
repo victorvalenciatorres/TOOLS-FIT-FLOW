@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "plotv2jpsi_comparison.C": "cpp",
+        "sysplotv2pt.C": "cpp"
+    }
+}
