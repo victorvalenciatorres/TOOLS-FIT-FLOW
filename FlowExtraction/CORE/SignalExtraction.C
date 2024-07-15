@@ -677,7 +677,7 @@ TH1 *GetInvMassHisto3(const char *filePattern, Float_t minMass, Float_t maxMass,
 {
 
     //*************************************************************************************************************
-    filePattern = "/Users/valencia/Desktop/AnalysisFlow/Flow/download/runs_chi/AO2D_merged_30april.root"; // PATH
+    filePattern = "AO2D_merged_30april.root"; // PATH
     //*************************************************************************************************************
 
     //*************************************************************************************************************
@@ -862,7 +862,7 @@ TH1 *Getv24Histo(const char *filePattern, Float_t minMass, Float_t maxMass, Floa
     // Load data into the TChain
     cout << "GETINVHISTO ??? = " << filePattern << endl;
     // LoadData(chain, treeName, filePattern);
-    filePattern = "/Users/valencia/Desktop/AnalysisFlow/daiki/9nov/O2DQworkflows/O2DQworkflows/AO2D_test_ref_flow.root";
+    filePattern = "AO2D_test_ref_flow.root";
 
     // filePattern = "/Users/valencia/Desktop/Flow/download/544124/AOD/002/AO2D.root";
 
@@ -939,8 +939,7 @@ TH1 *Getv22Histo(const char *filePattern, Float_t minMass, Float_t maxMass, Floa
     // Load data into the TChain
     cout << "GETINVHISTO ??? = " << filePattern << endl;
     // LoadData(chain, treeName, filePattern);
-    //  filePattern = "/Users/valencia/Desktop/Flow/download/544124/AOD/002/AO2D.root";
-    filePattern = "/Users/valencia/Desktop/AnalysisFlow/daiki/9nov/O2DQworkflows/O2DQworkflows/AO2D_test_ref_flow.root";
+    filePattern = "AO2D_test_ref_flow.root";
 
     string tree_str = treeName;
     string file_str = filePattern;
@@ -1036,7 +1035,7 @@ TH1 *GetvepHisto(const char *filePattern, Float_t minMass, Float_t maxMass, Floa
     std::array<float, 2> dimuonCentRange{0, 50};
 
     //*************************************************************************************************************
-    filePattern = "/Users/valencia/Desktop/AnalysisFlow/Flow/download/runs_chi/AO2D_merged_30april.root"; // OPTIONAL
+    filePattern = "AO2D_merged_30april.root"; // OPTIONAL
     //*************************************************************************************************************
 
     TChain *fChain_POI = new TChain();
